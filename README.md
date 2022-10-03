@@ -12,13 +12,11 @@ ___
 ## Emphasis
 **This is bold text**
 
-
-_This is bold text_
+__This is bold text__
 
 *This is italic text*
 
 _This is italic text_
-
 
 ## Blockquotes
 
