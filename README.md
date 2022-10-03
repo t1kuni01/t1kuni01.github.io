@@ -8,15 +8,19 @@
 
 ## Horizontal Rules
 
-___
+__
+
+
 ## Emphasis
 **This is bold text**
 
-__This is bold text__
+___This is bold text___
 
 *This is italic text*
 
 _This is italic text_
+
+~~Strikethrough~~
 
 ## Blockquotes
 
