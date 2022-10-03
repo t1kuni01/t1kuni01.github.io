@@ -99,6 +99,6 @@ Right aligned columns.
    
    ## Images
    
-   ![Minion](https://octodex.github.com/image/minion.png)
+   ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
    
    ## The End!
