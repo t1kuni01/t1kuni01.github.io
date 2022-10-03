@@ -92,14 +92,15 @@ Right aligned columns.
 
 ## Links
 
-   [link text] (http://dev.nodeca.com)
+   [link text](http://dev.nodeca.com)
    
-   [link with title] (http://nodeca.github.io/pica/demo/ "title text!"
+   
+   [link with title](http://nodeca.github.io/pica/demo/ "title text!"
    
    
    ## Images
    
-    ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+    
 
    
    
