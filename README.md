@@ -93,12 +93,13 @@ Right aligned columns.
 ## Links
 
    [link text] (http://dev.nodeca.com)
+   [link with title] (http://nodeca.github.io/pica/demo/ "title text!"
    
    ## Images
    
-   ![Minion] (https://octodex.github.com/image/minion.png)
+    [link with title] (http://nodeca.github.io/pica/demo/ "title text!"
    
    ## The End!
    
-   [link with title] (http://nodeca.github.io/pica/demo/ "title text!"
+ 
    
