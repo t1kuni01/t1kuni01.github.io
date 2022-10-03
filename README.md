@@ -95,7 +95,7 @@ Right aligned columns.
    [link text](http://dev.nodeca.com)
    
    
-   [link with title](http://nodeca.github.io/pica/demo/ "title text!"
+   [link with title](http://nodeca.github.io/pica/demo/)"title text!"
    
    
    ## Images
